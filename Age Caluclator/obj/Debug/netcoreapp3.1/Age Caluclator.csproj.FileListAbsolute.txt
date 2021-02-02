@@ -1,0 +1,11 @@
+C:\Users\s210717\Documents\AIE_02_FortuneTeller\Age Caluclator\bin\Debug\netcoreapp3.1\Age Caluclator.exe
+C:\Users\s210717\Documents\AIE_02_FortuneTeller\Age Caluclator\bin\Debug\netcoreapp3.1\Age Caluclator.deps.json
+C:\Users\s210717\Documents\AIE_02_FortuneTeller\Age Caluclator\bin\Debug\netcoreapp3.1\Age Caluclator.runtimeconfig.json
+C:\Users\s210717\Documents\AIE_02_FortuneTeller\Age Caluclator\bin\Debug\netcoreapp3.1\Age Caluclator.runtimeconfig.dev.json
+C:\Users\s210717\Documents\AIE_02_FortuneTeller\Age Caluclator\bin\Debug\netcoreapp3.1\Age Caluclator.dll
+C:\Users\s210717\Documents\AIE_02_FortuneTeller\Age Caluclator\bin\Debug\netcoreapp3.1\Age Caluclator.pdb
+C:\Users\s210717\Documents\AIE_02_FortuneTeller\Age Caluclator\obj\Debug\netcoreapp3.1\Age Caluclator.csprojAssemblyReference.cache
+C:\Users\s210717\Documents\AIE_02_FortuneTeller\Age Caluclator\obj\Debug\netcoreapp3.1\Age Caluclator.AssemblyInfoInputs.cache
+C:\Users\s210717\Documents\AIE_02_FortuneTeller\Age Caluclator\obj\Debug\netcoreapp3.1\Age Caluclator.AssemblyInfo.cs
+C:\Users\s210717\Documents\AIE_02_FortuneTeller\Age Caluclator\obj\Debug\netcoreapp3.1\Age Caluclator.dll
+C:\Users\s210717\Documents\AIE_02_FortuneTeller\Age Caluclator\obj\Debug\netcoreapp3.1\Age Caluclator.pdb

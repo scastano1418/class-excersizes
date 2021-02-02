@@ -1,0 +1,11 @@
+C:\Users\s210717\Documents\ClassExcersize\AIE_07_Max Of 3 Variables\bin\Debug\netcoreapp3.1\AIE_07_Max Of 3 Variables.exe
+C:\Users\s210717\Documents\ClassExcersize\AIE_07_Max Of 3 Variables\bin\Debug\netcoreapp3.1\AIE_07_Max Of 3 Variables.deps.json
+C:\Users\s210717\Documents\ClassExcersize\AIE_07_Max Of 3 Variables\bin\Debug\netcoreapp3.1\AIE_07_Max Of 3 Variables.runtimeconfig.json
+C:\Users\s210717\Documents\ClassExcersize\AIE_07_Max Of 3 Variables\bin\Debug\netcoreapp3.1\AIE_07_Max Of 3 Variables.runtimeconfig.dev.json
+C:\Users\s210717\Documents\ClassExcersize\AIE_07_Max Of 3 Variables\bin\Debug\netcoreapp3.1\AIE_07_Max Of 3 Variables.dll
+C:\Users\s210717\Documents\ClassExcersize\AIE_07_Max Of 3 Variables\bin\Debug\netcoreapp3.1\AIE_07_Max Of 3 Variables.pdb
+C:\Users\s210717\Documents\ClassExcersize\AIE_07_Max Of 3 Variables\obj\Debug\netcoreapp3.1\AIE_07_Max Of 3 Variables.AssemblyInfoInputs.cache
+C:\Users\s210717\Documents\ClassExcersize\AIE_07_Max Of 3 Variables\obj\Debug\netcoreapp3.1\AIE_07_Max Of 3 Variables.AssemblyInfo.cs
+C:\Users\s210717\Documents\ClassExcersize\AIE_07_Max Of 3 Variables\obj\Debug\netcoreapp3.1\AIE_07_Max Of 3 Variables.dll
+C:\Users\s210717\Documents\ClassExcersize\AIE_07_Max Of 3 Variables\obj\Debug\netcoreapp3.1\AIE_07_Max Of 3 Variables.pdb
+C:\Users\s210717\Documents\ClassExcersize\AIE_07_Max Of 3 Variables\obj\Debug\netcoreapp3.1\AIE_07_Max Of 3 Variables.csprojAssemblyReference.cache
