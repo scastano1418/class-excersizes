@@ -1,0 +1,10 @@
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_16_Is A Vowel\obj\Debug\netcoreapp3.1\AIE_16_Is A Vowel.AssemblyInfoInputs.cache
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_16_Is A Vowel\obj\Debug\netcoreapp3.1\AIE_16_Is A Vowel.AssemblyInfo.cs
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_16_Is A Vowel\bin\Debug\netcoreapp3.1\AIE_16_Is A Vowel.exe
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_16_Is A Vowel\bin\Debug\netcoreapp3.1\AIE_16_Is A Vowel.deps.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_16_Is A Vowel\bin\Debug\netcoreapp3.1\AIE_16_Is A Vowel.runtimeconfig.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_16_Is A Vowel\bin\Debug\netcoreapp3.1\AIE_16_Is A Vowel.runtimeconfig.dev.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_16_Is A Vowel\bin\Debug\netcoreapp3.1\AIE_16_Is A Vowel.dll
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_16_Is A Vowel\bin\Debug\netcoreapp3.1\AIE_16_Is A Vowel.pdb
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_16_Is A Vowel\obj\Debug\netcoreapp3.1\AIE_16_Is A Vowel.dll
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_16_Is A Vowel\obj\Debug\netcoreapp3.1\AIE_16_Is A Vowel.pdb

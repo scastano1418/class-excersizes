@@ -9,3 +9,14 @@ C:\Users\s210717\Documents\ClassExcersize\AIE_05_TempConverter\obj\Debug\netcore
 C:\Users\s210717\Documents\ClassExcersize\AIE_05_TempConverter\obj\Debug\netcoreapp3.1\AIE_05_TempConverter.AssemblyInfo.cs
 C:\Users\s210717\Documents\ClassExcersize\AIE_05_TempConverter\obj\Debug\netcoreapp3.1\AIE_05_TempConverter.dll
 C:\Users\s210717\Documents\ClassExcersize\AIE_05_TempConverter\obj\Debug\netcoreapp3.1\AIE_05_TempConverter.pdb
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_05_TempConverter\bin\Debug\netcoreapp3.1\AIE_05_TempConverter.exe
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_05_TempConverter\bin\Debug\netcoreapp3.1\AIE_05_TempConverter.deps.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_05_TempConverter\bin\Debug\netcoreapp3.1\AIE_05_TempConverter.runtimeconfig.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_05_TempConverter\bin\Debug\netcoreapp3.1\AIE_05_TempConverter.runtimeconfig.dev.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_05_TempConverter\bin\Debug\netcoreapp3.1\AIE_05_TempConverter.dll
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_05_TempConverter\bin\Debug\netcoreapp3.1\AIE_05_TempConverter.pdb
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_05_TempConverter\obj\Debug\netcoreapp3.1\AIE_05_TempConverter.csprojAssemblyReference.cache
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_05_TempConverter\obj\Debug\netcoreapp3.1\AIE_05_TempConverter.AssemblyInfoInputs.cache
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_05_TempConverter\obj\Debug\netcoreapp3.1\AIE_05_TempConverter.AssemblyInfo.cs
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_05_TempConverter\obj\Debug\netcoreapp3.1\AIE_05_TempConverter.dll
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_05_TempConverter\obj\Debug\netcoreapp3.1\AIE_05_TempConverter.pdb

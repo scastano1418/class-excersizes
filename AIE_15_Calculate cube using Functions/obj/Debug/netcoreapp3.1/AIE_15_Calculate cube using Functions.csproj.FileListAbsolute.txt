@@ -1,0 +1,10 @@
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_15_Calculate cube using Functions\obj\Debug\netcoreapp3.1\AIE_15_Calculate cube using Functions.AssemblyInfoInputs.cache
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_15_Calculate cube using Functions\obj\Debug\netcoreapp3.1\AIE_15_Calculate cube using Functions.AssemblyInfo.cs
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_15_Calculate cube using Functions\bin\Debug\netcoreapp3.1\AIE_15_Calculate cube using Functions.exe
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_15_Calculate cube using Functions\bin\Debug\netcoreapp3.1\AIE_15_Calculate cube using Functions.deps.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_15_Calculate cube using Functions\bin\Debug\netcoreapp3.1\AIE_15_Calculate cube using Functions.runtimeconfig.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_15_Calculate cube using Functions\bin\Debug\netcoreapp3.1\AIE_15_Calculate cube using Functions.runtimeconfig.dev.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_15_Calculate cube using Functions\bin\Debug\netcoreapp3.1\AIE_15_Calculate cube using Functions.dll
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_15_Calculate cube using Functions\bin\Debug\netcoreapp3.1\AIE_15_Calculate cube using Functions.pdb
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_15_Calculate cube using Functions\obj\Debug\netcoreapp3.1\AIE_15_Calculate cube using Functions.dll
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_15_Calculate cube using Functions\obj\Debug\netcoreapp3.1\AIE_15_Calculate cube using Functions.pdb

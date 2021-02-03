@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AIE_12_Nine Times Tables/1.0.0": {
+        "runtime": {
+          "AIE_12_Nine Times Tables.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AIE_12_Nine Times Tables/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

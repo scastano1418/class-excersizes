@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210717\\Documents\\ClassExcersize\\AIE_08_even or odd\\AIE_08_even or odd.csproj",
+      "projectUniqueName": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_08_even or odd\\AIE_08_even or odd.csproj",
       "projectName": "AIE_08_even or odd",
-      "projectPath": "C:\\Users\\s210717\\Documents\\ClassExcersize\\AIE_08_even or odd\\AIE_08_even or odd.csproj",
+      "projectPath": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_08_even or odd\\AIE_08_even or odd.csproj",
       "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210717\\Documents\\ClassExcersize\\AIE_08_even or odd\\obj\\",
+      "outputPath": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_08_even or odd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

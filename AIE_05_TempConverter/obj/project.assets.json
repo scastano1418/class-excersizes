@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210717\\Documents\\ClassExcersize\\AIE_05_TempConverter\\AIE_05_TempConverter.csproj",
+      "projectUniqueName": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_05_TempConverter\\AIE_05_TempConverter.csproj",
       "projectName": "AIE_05_TempConverter",
-      "projectPath": "C:\\Users\\s210717\\Documents\\ClassExcersize\\AIE_05_TempConverter\\AIE_05_TempConverter.csproj",
+      "projectPath": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_05_TempConverter\\AIE_05_TempConverter.csproj",
       "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210717\\Documents\\ClassExcersize\\AIE_05_TempConverter\\obj\\",
+      "outputPath": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_05_TempConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

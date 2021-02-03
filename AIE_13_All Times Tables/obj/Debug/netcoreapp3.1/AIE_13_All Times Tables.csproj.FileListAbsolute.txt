@@ -1,0 +1,11 @@
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_13_All Times Tables\obj\Debug\netcoreapp3.1\AIE_13_All Times Tables.AssemblyInfoInputs.cache
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_13_All Times Tables\obj\Debug\netcoreapp3.1\AIE_13_All Times Tables.AssemblyInfo.cs
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_13_All Times Tables\bin\Debug\netcoreapp3.1\AIE_13_All Times Tables.exe
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_13_All Times Tables\bin\Debug\netcoreapp3.1\AIE_13_All Times Tables.deps.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_13_All Times Tables\bin\Debug\netcoreapp3.1\AIE_13_All Times Tables.runtimeconfig.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_13_All Times Tables\bin\Debug\netcoreapp3.1\AIE_13_All Times Tables.runtimeconfig.dev.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_13_All Times Tables\bin\Debug\netcoreapp3.1\AIE_13_All Times Tables.dll
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_13_All Times Tables\bin\Debug\netcoreapp3.1\AIE_13_All Times Tables.pdb
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_13_All Times Tables\obj\Debug\netcoreapp3.1\AIE_13_All Times Tables.dll
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_13_All Times Tables\obj\Debug\netcoreapp3.1\AIE_13_All Times Tables.pdb
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_13_All Times Tables\obj\Debug\netcoreapp3.1\AIE_13_All Times Tables.csprojAssemblyReference.cache

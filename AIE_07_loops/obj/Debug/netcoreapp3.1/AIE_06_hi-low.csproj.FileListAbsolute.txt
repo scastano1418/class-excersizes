@@ -9,3 +9,14 @@ C:\Users\s210717\Documents\ClassExcersize\AIE_07_loops\obj\Debug\netcoreapp3.1\A
 C:\Users\s210717\Documents\ClassExcersize\AIE_07_loops\obj\Debug\netcoreapp3.1\AIE_06_hi-low.AssemblyInfo.cs
 C:\Users\s210717\Documents\ClassExcersize\AIE_07_loops\obj\Debug\netcoreapp3.1\AIE_06_hi-low.dll
 C:\Users\s210717\Documents\ClassExcersize\AIE_07_loops\obj\Debug\netcoreapp3.1\AIE_06_hi-low.pdb
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_07_loops\bin\Debug\netcoreapp3.1\AIE_06_hi-low.exe
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_07_loops\bin\Debug\netcoreapp3.1\AIE_06_hi-low.deps.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_07_loops\bin\Debug\netcoreapp3.1\AIE_06_hi-low.runtimeconfig.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_07_loops\bin\Debug\netcoreapp3.1\AIE_06_hi-low.runtimeconfig.dev.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_07_loops\bin\Debug\netcoreapp3.1\AIE_06_hi-low.dll
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_07_loops\bin\Debug\netcoreapp3.1\AIE_06_hi-low.pdb
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_07_loops\obj\Debug\netcoreapp3.1\AIE_06_hi-low.csprojAssemblyReference.cache
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_07_loops\obj\Debug\netcoreapp3.1\AIE_06_hi-low.AssemblyInfoInputs.cache
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_07_loops\obj\Debug\netcoreapp3.1\AIE_06_hi-low.AssemblyInfo.cs
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_07_loops\obj\Debug\netcoreapp3.1\AIE_06_hi-low.dll
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_07_loops\obj\Debug\netcoreapp3.1\AIE_06_hi-low.pdb

@@ -1,0 +1,11 @@
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_18_Calculator\obj\Debug\netcoreapp3.1\AIE_18_Calculator.csprojAssemblyReference.cache
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_18_Calculator\obj\Debug\netcoreapp3.1\AIE_18_Calculator.AssemblyInfoInputs.cache
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_18_Calculator\obj\Debug\netcoreapp3.1\AIE_18_Calculator.AssemblyInfo.cs
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_18_Calculator\bin\Debug\netcoreapp3.1\AIE_18_Calculator.exe
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_18_Calculator\bin\Debug\netcoreapp3.1\AIE_18_Calculator.deps.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_18_Calculator\bin\Debug\netcoreapp3.1\AIE_18_Calculator.runtimeconfig.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_18_Calculator\bin\Debug\netcoreapp3.1\AIE_18_Calculator.runtimeconfig.dev.json
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_18_Calculator\bin\Debug\netcoreapp3.1\AIE_18_Calculator.dll
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_18_Calculator\bin\Debug\netcoreapp3.1\AIE_18_Calculator.pdb
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_18_Calculator\obj\Debug\netcoreapp3.1\AIE_18_Calculator.dll
+C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_18_Calculator\obj\Debug\netcoreapp3.1\AIE_18_Calculator.pdb
