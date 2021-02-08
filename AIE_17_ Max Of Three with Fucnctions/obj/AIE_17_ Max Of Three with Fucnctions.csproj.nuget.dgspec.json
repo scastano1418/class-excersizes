@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_17_ Max Of Three with Fucnctions\\AIE_17_ Max Of Three with Fucnctions.csproj": {}
+    "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_17_ Max Of Three with Fucnctions\\AIE_17_ Max Of Three with Fucnctions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_17_ Max Of Three with Fucnctions\\AIE_17_ Max Of Three with Fucnctions.csproj": {
+    "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_17_ Max Of Three with Fucnctions\\AIE_17_ Max Of Three with Fucnctions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_17_ Max Of Three with Fucnctions\\AIE_17_ Max Of Three with Fucnctions.csproj",
+        "projectUniqueName": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_17_ Max Of Three with Fucnctions\\AIE_17_ Max Of Three with Fucnctions.csproj",
         "projectName": "AIE_17_ Max Of Three with Fucnctions",
-        "projectPath": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_17_ Max Of Three with Fucnctions\\AIE_17_ Max Of Three with Fucnctions.csproj",
+        "projectPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_17_ Max Of Three with Fucnctions\\AIE_17_ Max Of Three with Fucnctions.csproj",
         "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_17_ Max Of Three with Fucnctions\\obj\\",
+        "outputPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_17_ Max Of Three with Fucnctions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

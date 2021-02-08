@@ -19,25 +19,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_07_Max Of 3 Variables",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_08_even or odd", "AIE_08_even or odd\AIE_08_even or odd.csproj", "{966FB0B1-43CF-4F93-A354-AB6E9D39472E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_09_divisibleby 4 or 6", "AIE_09_divisibleby 4 or 6\AIE_09_divisibleby 4 or 6.csproj", "{29D3D741-EBEB-44EF-B060-875D633F2AE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_09_divisibleby 4 or 6", "AIE_09_divisibleby 4 or 6\AIE_09_divisibleby 4 or 6.csproj", "{29D3D741-EBEB-44EF-B060-875D633F2AE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_10_Day Of The Week", "AIE_10_Day Of The Week\AIE_10_Day Of The Week.csproj", "{F6DE079F-8924-4D70-A038-E8EEADAECA84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_10_Day Of The Week", "AIE_10_Day Of The Week\AIE_10_Day Of The Week.csproj", "{F6DE079F-8924-4D70-A038-E8EEADAECA84}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_11_Day Of The Week 2", "AIE_11_Day Of The Week 2\AIE_11_Day Of The Week 2.csproj", "{66EE63AF-8F91-475E-82D3-2F646BCA57BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_12_Nine Times Tables", "AIE_12_Nine Times Tables\AIE_12_Nine Times Tables.csproj", "{17C4149E-90BB-4B28-B4EB-DD85D8F08A7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_12_Nine Times Tables", "AIE_12_Nine Times Tables\AIE_12_Nine Times Tables.csproj", "{17C4149E-90BB-4B28-B4EB-DD85D8F08A7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_13_All Times Tables", "AIE_13_All Times Tables\AIE_13_All Times Tables.csproj", "{9C7EA121-4F47-4EEA-83C8-58E3C3BA82A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_13_All Times Tables", "AIE_13_All Times Tables\AIE_13_All Times Tables.csproj", "{9C7EA121-4F47-4EEA-83C8-58E3C3BA82A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_14_Password Prompt", "AIE_14_Password Prompt\AIE_14_Password Prompt.csproj", "{DFFE0149-C88B-476F-AA9E-2E096F05C5B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_14_Password Prompt", "AIE_14_Password Prompt\AIE_14_Password Prompt.csproj", "{DFFE0149-C88B-476F-AA9E-2E096F05C5B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_15_Calculate cube using Functions", "AIE_15_Calculate cube using Functions\AIE_15_Calculate cube using Functions.csproj", "{0FCCF5A5-4F55-45A0-8862-BBFE9EC63625}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_15_Calculate cube using Functions", "AIE_15_Calculate cube using Functions\AIE_15_Calculate cube using Functions.csproj", "{0FCCF5A5-4F55-45A0-8862-BBFE9EC63625}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_16_Is A Vowel", "AIE_16_Is A Vowel\AIE_16_Is A Vowel.csproj", "{4FE90C6E-D2B5-4691-AC1F-476CB65B2B9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_16_Is A Vowel", "AIE_16_Is A Vowel\AIE_16_Is A Vowel.csproj", "{4FE90C6E-D2B5-4691-AC1F-476CB65B2B9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_17_ Max Of Three with Fucnctions", "AIE_17_ Max Of Three with Fucnctions\AIE_17_ Max Of Three with Fucnctions.csproj", "{5F3EC88B-F499-419F-8FB1-1FA1FBDB4F06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_17_ Max Of Three with Fucnctions", "AIE_17_ Max Of Three with Fucnctions\AIE_17_ Max Of Three with Fucnctions.csproj", "{5F3EC88B-F499-419F-8FB1-1FA1FBDB4F06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_18_Calculator", "AIE_18_Calculator\AIE_18_Calculator.csproj", "{908F70B5-886D-41E3-B13F-354F906818F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AIE_18_Calculator", "AIE_18_Calculator\AIE_18_Calculator.csproj", "{908F70B5-886D-41E3-B13F-354F906818F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_19_Get two lengths", "AIE_19_Get two lengths\AIE_19_Get two lengths.csproj", "{275AD29D-4F53-4E9E-B803-F5C8F3261363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_20_Needle in a hay stack", "AIE_20_Needle in a hay stack\AIE_20_Needle in a hay stack.csproj", "{02DD3CB5-643B-4EF5-A6C7-999C6112399E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_21_ Calculate Average", "AIE_21_ Calculate Average\AIE_21_ Calculate Average.csproj", "{305528AF-E2A3-4EEF-9A23-458B9838C78F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIE_22_ Reverse Array", "AIE_22_ Reverse Array\AIE_22_ Reverse Array.csproj", "{394D4F14-9D0C-4EA3-87AC-97444F9F4724}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +125,22 @@ Global
 		{908F70B5-886D-41E3-B13F-354F906818F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{908F70B5-886D-41E3-B13F-354F906818F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{908F70B5-886D-41E3-B13F-354F906818F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275AD29D-4F53-4E9E-B803-F5C8F3261363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275AD29D-4F53-4E9E-B803-F5C8F3261363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275AD29D-4F53-4E9E-B803-F5C8F3261363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275AD29D-4F53-4E9E-B803-F5C8F3261363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DD3CB5-643B-4EF5-A6C7-999C6112399E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DD3CB5-643B-4EF5-A6C7-999C6112399E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DD3CB5-643B-4EF5-A6C7-999C6112399E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DD3CB5-643B-4EF5-A6C7-999C6112399E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305528AF-E2A3-4EEF-9A23-458B9838C78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305528AF-E2A3-4EEF-9A23-458B9838C78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305528AF-E2A3-4EEF-9A23-458B9838C78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305528AF-E2A3-4EEF-9A23-458B9838C78F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{394D4F14-9D0C-4EA3-87AC-97444F9F4724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394D4F14-9D0C-4EA3-87AC-97444F9F4724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394D4F14-9D0C-4EA3-87AC-97444F9F4724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394D4F14-9D0C-4EA3-87AC-97444F9F4724}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

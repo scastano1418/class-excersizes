@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_15_Calculate cube using Functions\\AIE_15_Calculate cube using Functions.csproj": {}
+    "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_15_Calculate cube using Functions\\AIE_15_Calculate cube using Functions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_15_Calculate cube using Functions\\AIE_15_Calculate cube using Functions.csproj": {
+    "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_15_Calculate cube using Functions\\AIE_15_Calculate cube using Functions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_15_Calculate cube using Functions\\AIE_15_Calculate cube using Functions.csproj",
+        "projectUniqueName": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_15_Calculate cube using Functions\\AIE_15_Calculate cube using Functions.csproj",
         "projectName": "AIE_15_Calculate cube using Functions",
-        "projectPath": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_15_Calculate cube using Functions\\AIE_15_Calculate cube using Functions.csproj",
+        "projectPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_15_Calculate cube using Functions\\AIE_15_Calculate cube using Functions.csproj",
         "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_15_Calculate cube using Functions\\obj\\",
+        "outputPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_15_Calculate cube using Functions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

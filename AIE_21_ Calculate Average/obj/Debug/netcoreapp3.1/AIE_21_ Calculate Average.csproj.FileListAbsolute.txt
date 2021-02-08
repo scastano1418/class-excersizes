@@ -1,0 +1,11 @@
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_21_ Calculate Average\obj\Debug\netcoreapp3.1\AIE_21_ Calculate Average.csprojAssemblyReference.cache
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_21_ Calculate Average\obj\Debug\netcoreapp3.1\AIE_21_ Calculate Average.AssemblyInfoInputs.cache
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_21_ Calculate Average\obj\Debug\netcoreapp3.1\AIE_21_ Calculate Average.AssemblyInfo.cs
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_21_ Calculate Average\bin\Debug\netcoreapp3.1\AIE_21_ Calculate Average.exe
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_21_ Calculate Average\bin\Debug\netcoreapp3.1\AIE_21_ Calculate Average.deps.json
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_21_ Calculate Average\bin\Debug\netcoreapp3.1\AIE_21_ Calculate Average.runtimeconfig.json
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_21_ Calculate Average\bin\Debug\netcoreapp3.1\AIE_21_ Calculate Average.runtimeconfig.dev.json
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_21_ Calculate Average\bin\Debug\netcoreapp3.1\AIE_21_ Calculate Average.dll
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_21_ Calculate Average\bin\Debug\netcoreapp3.1\AIE_21_ Calculate Average.pdb
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_21_ Calculate Average\obj\Debug\netcoreapp3.1\AIE_21_ Calculate Average.dll
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_21_ Calculate Average\obj\Debug\netcoreapp3.1\AIE_21_ Calculate Average.pdb

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_13_All Times Tables\\AIE_13_All Times Tables.csproj",
+      "projectUniqueName": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_13_All Times Tables\\AIE_13_All Times Tables.csproj",
       "projectName": "AIE_13_All Times Tables",
-      "projectPath": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_13_All Times Tables\\AIE_13_All Times Tables.csproj",
+      "projectPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_13_All Times Tables\\AIE_13_All Times Tables.csproj",
       "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_13_All Times Tables\\obj\\",
+      "outputPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_13_All Times Tables\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -8,3 +8,7 @@ C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_12_Nine Times Table
 C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_12_Nine Times Tables\obj\Debug\netcoreapp3.1\AIE_12_Nine Times Tables.AssemblyInfo.cs
 C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_12_Nine Times Tables\obj\Debug\netcoreapp3.1\AIE_12_Nine Times Tables.dll
 C:\Users\s210717\Desktop\ClassExcersize\class-excersizes\AIE_12_Nine Times Tables\obj\Debug\netcoreapp3.1\AIE_12_Nine Times Tables.pdb
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_12_Nine Times Tables\obj\Debug\netcoreapp3.1\AIE_12_Nine Times Tables.AssemblyInfoInputs.cache
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_12_Nine Times Tables\obj\Debug\netcoreapp3.1\AIE_12_Nine Times Tables.AssemblyInfo.cs
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_12_Nine Times Tables\obj\Debug\netcoreapp3.1\AIE_12_Nine Times Tables.dll
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_12_Nine Times Tables\obj\Debug\netcoreapp3.1\AIE_12_Nine Times Tables.pdb

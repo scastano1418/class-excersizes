@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AIE_19_Get two lengths/1.0.0": {
+        "runtime": {
+          "AIE_19_Get two lengths.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AIE_19_Get two lengths/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

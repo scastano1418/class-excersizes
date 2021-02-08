@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_07_loops\\AIE_06_hi-low.csproj": {}
+    "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_07_loops\\AIE_06_hi-low.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_07_loops\\AIE_06_hi-low.csproj": {
+    "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_07_loops\\AIE_06_hi-low.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_07_loops\\AIE_06_hi-low.csproj",
+        "projectUniqueName": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_07_loops\\AIE_06_hi-low.csproj",
         "projectName": "AIE_06_hi-low",
-        "projectPath": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_07_loops\\AIE_06_hi-low.csproj",
+        "projectPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_07_loops\\AIE_06_hi-low.csproj",
         "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210717\\Desktop\\ClassExcersize\\class-excersizes\\AIE_07_loops\\obj\\",
+        "outputPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_07_loops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

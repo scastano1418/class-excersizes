@@ -1,0 +1,11 @@
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_19_Get two lengths\obj\Debug\netcoreapp3.1\AIE_19_Get two lengths.csprojAssemblyReference.cache
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_19_Get two lengths\obj\Debug\netcoreapp3.1\AIE_19_Get two lengths.AssemblyInfoInputs.cache
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_19_Get two lengths\obj\Debug\netcoreapp3.1\AIE_19_Get two lengths.AssemblyInfo.cs
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_19_Get two lengths\bin\Debug\netcoreapp3.1\AIE_19_Get two lengths.exe
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_19_Get two lengths\bin\Debug\netcoreapp3.1\AIE_19_Get two lengths.deps.json
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_19_Get two lengths\bin\Debug\netcoreapp3.1\AIE_19_Get two lengths.runtimeconfig.json
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_19_Get two lengths\bin\Debug\netcoreapp3.1\AIE_19_Get two lengths.runtimeconfig.dev.json
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_19_Get two lengths\bin\Debug\netcoreapp3.1\AIE_19_Get two lengths.dll
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_19_Get two lengths\bin\Debug\netcoreapp3.1\AIE_19_Get two lengths.pdb
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_19_Get two lengths\obj\Debug\netcoreapp3.1\AIE_19_Get two lengths.dll
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_19_Get two lengths\obj\Debug\netcoreapp3.1\AIE_19_Get two lengths.pdb

@@ -1,0 +1,18 @@
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\bin\Debug\netcoreapp3.1\AIE_20_Needle in a hay stack.exe
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\obj\Debug\netcoreapp3.1\AIE_20_Needle in a hay stack.csprojAssemblyReference.cache
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\obj\Debug\netcoreapp3.1\AIE_20_Needle in a hay stack.AssemblyInfoInputs.cache
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\obj\Debug\netcoreapp3.1\AIE_20_Needle in a hay stack.AssemblyInfo.cs
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\bin\Debug\netcoreapp3.1\AIE_20_Needle in a hay stack.deps.json
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\bin\Debug\netcoreapp3.1\AIE_20_Needle in a hay stack.runtimeconfig.json
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\bin\Debug\netcoreapp3.1\AIE_20_Needle in a hay stack.runtimeconfig.dev.json
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\bin\Debug\netcoreapp3.1\AIE_20_Needle in a hay stack.dll
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\bin\Debug\netcoreapp3.1\AIE_20_Needle in a hay stack.pdb
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\bin\Debug\netcoreapp3.1\Raylib-cs.dll
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libraylib.so
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libraylib.so
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\raylib.dll
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\raylib.dll
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\obj\Debug\netcoreapp3.1\AIE_20_Needle in a hay stack.csproj.CopyComplete
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\obj\Debug\netcoreapp3.1\AIE_20_Needle in a hay stack.dll
+C:\Users\s210717\Source\Repos\class-excersizes\AIE_20_Needle in a hay stack\obj\Debug\netcoreapp3.1\AIE_20_Needle in a hay stack.pdb
