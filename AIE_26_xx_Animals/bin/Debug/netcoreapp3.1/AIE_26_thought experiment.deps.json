@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AIE_26_thought experiment/1.0.0": {
+        "runtime": {
+          "AIE_26_thought experiment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AIE_26_thought experiment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

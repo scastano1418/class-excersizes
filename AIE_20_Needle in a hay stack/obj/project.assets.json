@@ -66,11 +66,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_20_Needle in a hay stack\\AIE_20_Needle in a hay stack.csproj",
+      "projectUniqueName": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_20_Needle in a hay stack\\AIE_20_Needle in a hay stack.csproj",
       "projectName": "AIE_20_Needle in a hay stack",
-      "projectPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_20_Needle in a hay stack\\AIE_20_Needle in a hay stack.csproj",
+      "projectPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_20_Needle in a hay stack\\AIE_20_Needle in a hay stack.csproj",
       "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_20_Needle in a hay stack\\obj\\",
+      "outputPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_20_Needle in a hay stack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_22_ Reverse Array\\AIE_22_ Reverse Array.csproj",
+      "projectUniqueName": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_22_ Reverse Array\\AIE_22_ Reverse Array.csproj",
       "projectName": "AIE_22_ Reverse Array",
-      "projectPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_22_ Reverse Array\\AIE_22_ Reverse Array.csproj",
+      "projectPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_22_ Reverse Array\\AIE_22_ Reverse Array.csproj",
       "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_22_ Reverse Array\\obj\\",
+      "outputPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_22_ Reverse Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_12_Nine Times Tables\\AIE_12_Nine Times Tables.csproj": {}
+    "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_12_Nine Times Tables\\AIE_12_Nine Times Tables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_12_Nine Times Tables\\AIE_12_Nine Times Tables.csproj": {
+    "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_12_Nine Times Tables\\AIE_12_Nine Times Tables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_12_Nine Times Tables\\AIE_12_Nine Times Tables.csproj",
+        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_12_Nine Times Tables\\AIE_12_Nine Times Tables.csproj",
         "projectName": "AIE_12_Nine Times Tables",
-        "projectPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_12_Nine Times Tables\\AIE_12_Nine Times Tables.csproj",
+        "projectPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_12_Nine Times Tables\\AIE_12_Nine Times Tables.csproj",
         "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210717\\Source\\Repos\\class-excersizes\\AIE_12_Nine Times Tables\\obj\\",
+        "outputPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_12_Nine Times Tables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",
