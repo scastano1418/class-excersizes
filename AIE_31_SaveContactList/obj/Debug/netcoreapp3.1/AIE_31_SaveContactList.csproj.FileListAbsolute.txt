@@ -1,0 +1,11 @@
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_31_SaveContactList\bin\Debug\netcoreapp3.1\AIE_31_SaveContactList.exe
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_31_SaveContactList\bin\Debug\netcoreapp3.1\AIE_31_SaveContactList.deps.json
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_31_SaveContactList\bin\Debug\netcoreapp3.1\AIE_31_SaveContactList.runtimeconfig.json
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_31_SaveContactList\bin\Debug\netcoreapp3.1\AIE_31_SaveContactList.runtimeconfig.dev.json
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_31_SaveContactList\bin\Debug\netcoreapp3.1\AIE_31_SaveContactList.dll
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_31_SaveContactList\bin\Debug\netcoreapp3.1\AIE_31_SaveContactList.pdb
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_31_SaveContactList\obj\Debug\netcoreapp3.1\AIE_31_SaveContactList.AssemblyInfoInputs.cache
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_31_SaveContactList\obj\Debug\netcoreapp3.1\AIE_31_SaveContactList.AssemblyInfo.cs
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_31_SaveContactList\obj\Debug\netcoreapp3.1\AIE_31_SaveContactList.dll
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_31_SaveContactList\obj\Debug\netcoreapp3.1\AIE_31_SaveContactList.pdb
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_31_SaveContactList\obj\Debug\netcoreapp3.1\AIE_31_SaveContactList.csprojAssemblyReference.cache

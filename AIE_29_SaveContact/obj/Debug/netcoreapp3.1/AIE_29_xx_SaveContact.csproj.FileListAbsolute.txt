@@ -1,0 +1,11 @@
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_2-_xx_SaveContact\obj\Debug\netcoreapp3.1\AIE_29_xx_SaveContact.csprojAssemblyReference.cache
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_2-_xx_SaveContact\obj\Debug\netcoreapp3.1\AIE_29_xx_SaveContact.AssemblyInfoInputs.cache
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_2-_xx_SaveContact\obj\Debug\netcoreapp3.1\AIE_29_xx_SaveContact.AssemblyInfo.cs
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_2-_xx_SaveContact\bin\Debug\netcoreapp3.1\AIE_29_xx_SaveContact.exe
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_2-_xx_SaveContact\bin\Debug\netcoreapp3.1\AIE_29_xx_SaveContact.deps.json
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_2-_xx_SaveContact\bin\Debug\netcoreapp3.1\AIE_29_xx_SaveContact.runtimeconfig.json
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_2-_xx_SaveContact\bin\Debug\netcoreapp3.1\AIE_29_xx_SaveContact.runtimeconfig.dev.json
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_2-_xx_SaveContact\bin\Debug\netcoreapp3.1\AIE_29_xx_SaveContact.dll
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_2-_xx_SaveContact\bin\Debug\netcoreapp3.1\AIE_29_xx_SaveContact.pdb
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_2-_xx_SaveContact\obj\Debug\netcoreapp3.1\AIE_29_xx_SaveContact.dll
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_2-_xx_SaveContact\obj\Debug\netcoreapp3.1\AIE_29_xx_SaveContact.pdb

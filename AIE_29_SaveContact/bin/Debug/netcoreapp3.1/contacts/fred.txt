@@ -1,0 +1,3 @@
+name fred
+email fred@email.com
+phone 12345678
