@@ -43,10 +43,20 @@ namespace AIE_30_SaveContactV2
 
             }
         }
-        public void DeSerialise(string filename)
+        public void DeSerialise(string filename) 
         {
-
-
+            using (StreamReader sr = File.OpenText(filename))
+            {
+                string line;
+                while ((line = sr.ReadLine()) != null)
+                {
+                    var kvp = line.Split(" ");
+                    if (kvp[0] == "name") name = kvp[1];
+                    if (kvp[0] == "email") email = kvp[1];
+                    if (kvp[0] == "phone") phone = kvp[1];
+                    //kvp = (key value pair) and number in [] is the location in line.
+                }
+            }
         }
 
         public void Print()

@@ -1,0 +1,11 @@
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_32_Save High Scores\obj\Debug\netcoreapp3.1\AIE_32_Save High Scores.csprojAssemblyReference.cache
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_32_Save High Scores\obj\Debug\netcoreapp3.1\AIE_32_Save High Scores.AssemblyInfoInputs.cache
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_32_Save High Scores\obj\Debug\netcoreapp3.1\AIE_32_Save High Scores.AssemblyInfo.cs
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_32_Save High Scores\bin\Debug\netcoreapp3.1\AIE_32_Save High Scores.exe
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_32_Save High Scores\bin\Debug\netcoreapp3.1\AIE_32_Save High Scores.deps.json
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_32_Save High Scores\bin\Debug\netcoreapp3.1\AIE_32_Save High Scores.runtimeconfig.json
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_32_Save High Scores\bin\Debug\netcoreapp3.1\AIE_32_Save High Scores.runtimeconfig.dev.json
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_32_Save High Scores\bin\Debug\netcoreapp3.1\AIE_32_Save High Scores.dll
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_32_Save High Scores\bin\Debug\netcoreapp3.1\AIE_32_Save High Scores.pdb
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_32_Save High Scores\obj\Debug\netcoreapp3.1\AIE_32_Save High Scores.dll
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_32_Save High Scores\obj\Debug\netcoreapp3.1\AIE_32_Save High Scores.pdb

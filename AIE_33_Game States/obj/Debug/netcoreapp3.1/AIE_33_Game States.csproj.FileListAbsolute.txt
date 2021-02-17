@@ -1,0 +1,3 @@
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_33_Game States\bin\Debug\netcoreapp3.1\AIE_33_Game States.exe
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_33_Game States\obj\Debug\netcoreapp3.1\AIE_33_Game States.AssemblyInfoInputs.cache
+C:\Users\s210717\Desktop\New folder\class-excersizes\AIE_33_Game States\obj\Debug\netcoreapp3.1\AIE_33_Game States.AssemblyInfo.cs

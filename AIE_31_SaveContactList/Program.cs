@@ -12,8 +12,8 @@ namespace AIE_31_SaveContactList
             
          List<Contact> contacts = new List<Contact>();
          contacts.Add(new Contact("bob", "bob@email.com", "12345678"));
-         contacts.Add(new Contact("fred", "fred@email.com", "12345678"));
-         contacts.Add(new Contact("ted", "ted@email.com", "12345678"));
+         contacts.Add(new Contact("fred", "fred@email.com", ""));
+         contacts.Add(new Contact("ted", "", "12345678"));
 
                 // save to file
          SerialiseContactList("contacts.txt", contacts);
@@ -24,30 +24,50 @@ namespace AIE_31_SaveContactList
                 // read from file
          DeSerialiseContactList("contacts.txt", contacts);
 
-            
+        }    
 
-            static void SerialiseContactList(string filename, List<Contact> contacts)
+       static void SerialiseContactList(string filename, List<Contact> contacts)
+       {
+            var fileInfo = new FileInfo(filename);
+            Directory.CreateDirectory(fileInfo.Directory.FullName);
+
+            using ( StreamWriter sw = File.CreateText(filename))
             {
-                using (StreamReader sr = File.OpenText(filename))
+                foreach(var contact in contacts)
                 {
-                    string line;
-                    while ((line = sr.ReadLine()) != null)
-                    {
-                        string[] parts = line.Split(" ");
-                        string key = parts[0];
-                        string value = parts[1];
-
-                        if (key == "name") name = value;
-                        if (key == "email") email = value;
-                        if (key == "phone") phone = value;
-                    }
+                    if (!string.IsNullOrWhiteSpace(contact.name)) sw.WriteLine("name " + contact.name);
+                    if (!string.IsNullOrWhiteSpace(contact.email)) sw.WriteLine("email " + contact.email);
+                    if (!string.IsNullOrWhiteSpace(contact.phone)) sw.WriteLine("phone " + contact.phone);
+                    sw.WriteLine("");
                 }
             }
+       }
 
-            static void DeSerialiseContactList(string filename, List<Contact> contacts)
-            {
-               
-            }
-        }
+       static void DeSerialiseContactList(string filename, List<Contact> contacts)
+       {
+         Contact contact = new Contact();
+
+          using (StreamReader sr = File.OpenText(filename))
+          {
+            string line;
+                while ((line = sr.ReadLine()) != null)
+                {
+                    if (string.IsNullOrWhiteSpace(line))
+                    {
+                        contacts.Add(contact);
+                        contact = new Contact();
+                    }
+                    else
+                    {
+                        var kvp = line.Split(" ");
+                        if (kvp[0] == "name") contact.name = kvp[1];
+                        if (kvp[0] == "email") contact.email = kvp[1];
+                        if (kvp[0] == "phone") contact.phone = kvp[1];
+                    }
+                   
+                }
+          }
+       }
+        
     }
 }
