@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_21_ Calculate Average\\AIE_21_ Calculate Average.csproj": {}
+    "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_21_ Calculate Average\\AIE_21_ Calculate Average.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_21_ Calculate Average\\AIE_21_ Calculate Average.csproj": {
+    "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_21_ Calculate Average\\AIE_21_ Calculate Average.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_21_ Calculate Average\\AIE_21_ Calculate Average.csproj",
+        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_21_ Calculate Average\\AIE_21_ Calculate Average.csproj",
         "projectName": "AIE_21_ Calculate Average",
-        "projectPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_21_ Calculate Average\\AIE_21_ Calculate Average.csproj",
+        "projectPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_21_ Calculate Average\\AIE_21_ Calculate Average.csproj",
         "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_21_ Calculate Average\\obj\\",
+        "outputPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_21_ Calculate Average\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

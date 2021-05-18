@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj": {}
+    "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj": {
+    "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj",
         "projectName": "AIE_01_HelloWorld",
-        "projectPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj",
+        "projectPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_01_HelloWorld\\AIE_01_HelloWorld.csproj",
         "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_01_HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_01_HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

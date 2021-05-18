@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_29_SaveContact\\AIE_29_SaveContact.csproj": {}
+    "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_29_SaveContact\\AIE_29_SaveContact.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_29_SaveContact\\AIE_29_SaveContact.csproj": {
+    "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_29_SaveContact\\AIE_29_SaveContact.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_29_SaveContact\\AIE_29_SaveContact.csproj",
+        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_29_SaveContact\\AIE_29_SaveContact.csproj",
         "projectName": "AIE_29_SaveContact",
-        "projectPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_29_SaveContact\\AIE_29_SaveContact.csproj",
+        "projectPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_29_SaveContact\\AIE_29_SaveContact.csproj",
         "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_29_SaveContact\\obj\\",
+        "outputPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_29_SaveContact\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

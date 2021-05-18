@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_09_divisibleby 4 or 6\\AIE_09_divisibleby 4 or 6.csproj",
+      "projectUniqueName": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_09_divisibleby 4 or 6\\AIE_09_divisibleby 4 or 6.csproj",
       "projectName": "AIE_09_divisibleby 4 or 6",
-      "projectPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_09_divisibleby 4 or 6\\AIE_09_divisibleby 4 or 6.csproj",
+      "projectPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_09_divisibleby 4 or 6\\AIE_09_divisibleby 4 or 6.csproj",
       "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_09_divisibleby 4 or 6\\obj\\",
+      "outputPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_09_divisibleby 4 or 6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

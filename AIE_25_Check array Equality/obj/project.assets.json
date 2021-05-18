@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_25_Check array Equality\\AIE_25_Check array Equality.csproj",
+      "projectUniqueName": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_25_Check array Equality\\AIE_25_Check array Equality.csproj",
       "projectName": "AIE_25_Check array Equality",
-      "projectPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_25_Check array Equality\\AIE_25_Check array Equality.csproj",
+      "projectPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_25_Check array Equality\\AIE_25_Check array Equality.csproj",
       "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_25_Check array Equality\\obj\\",
+      "outputPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_25_Check array Equality\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

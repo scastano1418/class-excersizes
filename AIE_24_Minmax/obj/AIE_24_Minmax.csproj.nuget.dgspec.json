@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_24_Minmax\\AIE_24_Minmax.csproj": {}
+    "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_24_Minmax\\AIE_24_Minmax.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_24_Minmax\\AIE_24_Minmax.csproj": {
+    "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_24_Minmax\\AIE_24_Minmax.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_24_Minmax\\AIE_24_Minmax.csproj",
+        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_24_Minmax\\AIE_24_Minmax.csproj",
         "projectName": "AIE_24_Minmax",
-        "projectPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_24_Minmax\\AIE_24_Minmax.csproj",
+        "projectPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_24_Minmax\\AIE_24_Minmax.csproj",
         "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_24_Minmax\\obj\\",
+        "outputPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_24_Minmax\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

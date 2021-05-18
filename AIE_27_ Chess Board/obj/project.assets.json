@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_27_ Chess Board\\AIE_27_ Chess Board.csproj",
+      "projectUniqueName": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_27_ Chess Board\\AIE_27_ Chess Board.csproj",
       "projectName": "AIE_27_ Chess Board",
-      "projectPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_27_ Chess Board\\AIE_27_ Chess Board.csproj",
+      "projectPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_27_ Chess Board\\AIE_27_ Chess Board.csproj",
       "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_27_ Chess Board\\obj\\",
+      "outputPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_27_ Chess Board\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",

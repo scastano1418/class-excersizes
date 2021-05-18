@@ -1,0 +1,11 @@
+C:\Users\s210717\Desktop\c# excersises\class-excersizes\array Prac int\bin\Debug\netcoreapp3.1\array Prac int.exe
+C:\Users\s210717\Desktop\c# excersises\class-excersizes\array Prac int\bin\Debug\netcoreapp3.1\array Prac int.deps.json
+C:\Users\s210717\Desktop\c# excersises\class-excersizes\array Prac int\bin\Debug\netcoreapp3.1\array Prac int.runtimeconfig.json
+C:\Users\s210717\Desktop\c# excersises\class-excersizes\array Prac int\bin\Debug\netcoreapp3.1\array Prac int.runtimeconfig.dev.json
+C:\Users\s210717\Desktop\c# excersises\class-excersizes\array Prac int\bin\Debug\netcoreapp3.1\array Prac int.dll
+C:\Users\s210717\Desktop\c# excersises\class-excersizes\array Prac int\bin\Debug\netcoreapp3.1\array Prac int.pdb
+C:\Users\s210717\Desktop\c# excersises\class-excersizes\array Prac int\obj\Debug\netcoreapp3.1\array Prac int.csprojAssemblyReference.cache
+C:\Users\s210717\Desktop\c# excersises\class-excersizes\array Prac int\obj\Debug\netcoreapp3.1\array Prac int.AssemblyInfoInputs.cache
+C:\Users\s210717\Desktop\c# excersises\class-excersizes\array Prac int\obj\Debug\netcoreapp3.1\array Prac int.AssemblyInfo.cs
+C:\Users\s210717\Desktop\c# excersises\class-excersizes\array Prac int\obj\Debug\netcoreapp3.1\array Prac int.dll
+C:\Users\s210717\Desktop\c# excersises\class-excersizes\array Prac int\obj\Debug\netcoreapp3.1\array Prac int.pdb

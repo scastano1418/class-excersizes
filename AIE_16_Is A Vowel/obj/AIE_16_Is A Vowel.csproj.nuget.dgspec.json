@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_16_Is A Vowel\\AIE_16_Is A Vowel.csproj": {}
+    "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_16_Is A Vowel\\AIE_16_Is A Vowel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_16_Is A Vowel\\AIE_16_Is A Vowel.csproj": {
+    "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_16_Is A Vowel\\AIE_16_Is A Vowel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_16_Is A Vowel\\AIE_16_Is A Vowel.csproj",
+        "projectUniqueName": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_16_Is A Vowel\\AIE_16_Is A Vowel.csproj",
         "projectName": "AIE_16_Is A Vowel",
-        "projectPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_16_Is A Vowel\\AIE_16_Is A Vowel.csproj",
+        "projectPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_16_Is A Vowel\\AIE_16_Is A Vowel.csproj",
         "packagesPath": "C:\\Users\\s210717\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s210717\\Desktop\\New folder\\class-excersizes\\AIE_16_Is A Vowel\\obj\\",
+        "outputPath": "C:\\Users\\s210717\\Desktop\\c# excersises\\class-excersizes\\AIE_16_Is A Vowel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\s210717\\AppData\\Roaming\\NuGet\\NuGet.Config",
